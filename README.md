@@ -37,7 +37,7 @@ Estou em busca de uma oportunidade de Estágio em QA e/ou Estágio em TI; com fo
 - Vscode
 
 
-### Soft Skills
+### 🧠 Soft Skills
 - ![Communicative](https://img.shields.io/badge/Communicative-hotpink)
 - ![Proactive](https://img.shields.io/badge/-Proactive-purple)
 - ![Organized](https://img.shields.io/badge/Organized-hotpink)
@@ -52,5 +52,6 @@ Estou em busca de uma oportunidade de Estágio em QA e/ou Estágio em TI; com fo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thais-barboza-bioni-58b61112b/) 
 
 [![GitHub](https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github)](https://github.com/thaisbioni)
+
 
 
