@@ -7,7 +7,7 @@
  Tenho habilidade de resoluções de conflitos e qualidade de atendimento.
 
 Atualmente sou estudante e estou desempregada.
-Estou em busca de uma oportunidade de Estágio em QA e/ou Estágio em TI; com foco em qualidade de desenvolvimento de sotfware.
+Estou em busca de uma oportunidade de Estágio em QA e/ou Estágio em TI; com foco em qualidade no desenvolvimento de sotfware.
    
 
 ## 📚 Conhecimentos
