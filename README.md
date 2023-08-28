@@ -3,7 +3,7 @@
  ##
 
   Tenho 33 anos, sou natural de São Paulo/SP.
-  Tive a oportunidade de atuar na área comercial de atendimento a clientes; com 1 ano e 8 meses de experiência, dedicada a resolver conflitos e prestar solicitações dos clientes.
+  Tive a oportunidade de atuar na área comercial de atendimento a clientes; com 1 ano e 8 meses de experiência, dedicada a resolver conflitos, prestar solicitações dos clientes e melhoria de processos.
  Tenho habilidade de resoluções de conflitos e qualidade de atendimento.
 
 Atualmente sou estudante e estou desempregada.
