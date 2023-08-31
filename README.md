@@ -11,6 +11,7 @@ Atualmente sou estudante e estou em busca de uma oportunidade de Estágio em QA 
 
 ## 📚 Conhecimentos
 
+ - Testes Manuais*;
  - *Engenharia de requisitos;*
  - *Planejamento e execução de testes;*
  - *Análise de Artefatos;* 
@@ -27,8 +28,6 @@ Atualmente sou estudante e estou em busca de uma oportunidade de Estágio em QA 
 - Miro
 - Qase.io
 - Trello
-- Testrail
-- Testmo
 - Selenium
 - Miro 
 - IntelliJ
