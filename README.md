@@ -29,7 +29,6 @@ Atualmente sou estudante e estou em busca de uma oportunidade de Estágio em QA 
 - Trello
 - Testrail
 - Testmo
-- Jira
 - Selenium
 - Miro 
 - IntelliJ
