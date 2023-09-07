@@ -1,4 +1,4 @@
-## Hello World !!! Sou a Thais Barboza Bioni 😊
+## Hello World! Sou a Thais Barboza Bioni !
  *Desde 1999, sou apaixonada por tecnologia, estou no 4° semestre do curso tecnólogo em Análise e Desenvolvimento de Sistemas.*
  ##
 
@@ -6,7 +6,8 @@
   Tive a oportunidade de atuar na área comercial de atendimento a clientes; com 1 ano e 8 meses de experiência, dedicada a resolver conflitos, prestar solicitações dos clientes e melhoria de processos.
  Tenho habilidade de resoluções de conflitos e qualidade de atendimento.
 
-Atualmente sou estudante e estou em busca de uma oportunidade de Estágio em QA e/ou Estágio em TI; com foco em qualidade no desenvolvimento de sotfware.
+Atualmente sou estudante e estou em busca de uma oportunidades de Estágio em QA e/ou Estágio em TI; 
+com foco em qualidade no desenvolvimento de sotfware. A *QUALIDADE* não se limita aos testes 😊
    
 
 ## 📚 Conhecimentos
