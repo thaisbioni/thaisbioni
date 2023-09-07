@@ -11,8 +11,9 @@ com foco em qualidade no desenvolvimento de sotfware. A *QUALIDADE* não se limi
    
 
 ## 📚 Conhecimentos
-
- - Testes Manuais*;
+ 
+ - *Criação de Cenários, BDD(Gherkin);*
+ - *Testes Manuais;*
  - *Engenharia de requisitos;*
  - *Planejamento e execução de testes;*
  - *Análise de Artefatos;* 
