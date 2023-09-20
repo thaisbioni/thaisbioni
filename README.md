@@ -30,8 +30,7 @@ com foco em qualidade no desenvolvimento de sotfware. A *QUALIDADE* não se limi
 - Miro
 - Qase.io
 - Trello
-- Selenium
-- Miro 
+- Selenium 
 - IntelliJ
 - Vscode
 
