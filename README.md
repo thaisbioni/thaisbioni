@@ -33,6 +33,7 @@ com foco em qualidade no desenvolvimento de sotfware. A *QUALIDADE* não se limi
 - Selenium 
 - IntelliJ
 - Vscode
+- Salesforce ( Marketing Cloud, Sales ADM )
 
 
 ### 🧠 Soft Skills
